@@ -1,0 +1,24 @@
+EXPORTS
+    _ZN10Flow_Sound10load_soundESsb @1
+    _ZN11Flow_Camera11move_cameraE8Vector2f @2
+    _ZN11Flow_TexMan11get_textureEj @3
+    _ZN11Flow_TexMan11map_textureEjP12Flow_Texture @4
+    _ZN11Flow_TexMan13unmap_textureEj @5
+    _ZN12Flow_Display16flow_window_initESstt @6
+    _ZN12Flow_Display17flow_window_widthEv @7
+    _ZN12Flow_Display18flow_window_heightEv @8
+    _ZN12Flow_Display18flow_window_renameESs @9
+    _ZN12Flow_Display18flow_window_resizeEtt @10
+    _ZN12Flow_Display21flow_window_isfscreenEv @11
+    _ZN12Flow_Display26flow_window_toggle_fscreenEv @12
+    _ZN12Flow_Texture10tex_heightEv @13
+    _ZN12Flow_Texture10tex_renderEP12Flow_Display @14
+    _ZN12Flow_Texture10tex_unlockEv @15
+    _ZN12Flow_Texture11get_sdl_texEv @16
+    _ZN12Flow_Texture8tex_loadERKSsP12Flow_Display @17
+    _ZN12Flow_Texture8tex_lockEv @18
+    _ZN12Flow_Texture9tex_widthEv @19
+    _ZN13Flow_SoundMan10audio_initEv @20
+    _ZN13Flow_SoundMan10audio_playEj @21
+    _ZN13Flow_SoundMan14audio_mapsoundEjP10Flow_Sound @22
+    _ZN13Flow_SoundMan16audio_unmapsoundEj @23
